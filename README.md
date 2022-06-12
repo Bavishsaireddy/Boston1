@@ -1,2 +1,2 @@
-# Boston1
-gd
+# Boston Dataset Gradient Descent
+gradient Descent
